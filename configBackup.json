@@ -1,23 +1,14 @@
 {
-    "quality": 720,
-    "downloadDirectory": "C:/Users/Tanzil Chowdhury/Videos/",
-    "sponsorblockSkipCatagories": [
-        "interaction",
-        "intro",
-        "music_offtopic",
-        "outro",
-        "preview",
-        "selfpromo",
-        "sponsor",
-        "filler"
-    ],
+    "quality": 1080,
+    "downloadDirectory": "",
+    "sponsorblockSkipCatagories": [],
     "validLangs": [],
-    "needThumbnail": true,
-    "needSubtitles": true,
+    "needThumbnail": false,
+    "needSubtitles": false,
     "videoFileFormat": "mp4",
     "audioFileFormat": "m4a",
     "subtitlesFileFormat": "vtt",
-    "needCookies": true,
-    "browserCookies": "firefox",
+    "needCookies": false,
+    "browserCookies": "",
     "verbose": true
 }
