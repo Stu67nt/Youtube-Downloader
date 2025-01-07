@@ -1,6 +1,6 @@
 {
     "quality": 1080,
-    "downloadDirectory": "",
+    "downloadDirectory": "temp",
     "sponsorblockSkipCatagories": [],
     "validLangs": [],
     "needThumbnail": false,
