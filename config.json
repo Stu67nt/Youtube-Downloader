@@ -1,14 +1,14 @@
 {
     "quality": 1080,
-    "downloadDirectory": "C:/Users/Tanzil Chowdhury/Videos/",
+    "downloadDirectory": "",
     "sponsorblockSkipCatagories": [],
     "validLangs": [],
-    "needThumbnail": true,
+    "needThumbnail": false,
     "needSubtitles": false,
     "videoFileFormat": "mp4",
     "audioFileFormat": "m4a",
     "subtitlesFileFormat": "vtt",
     "needCookies": false,
-    "browserCookies": "firefox",
+    "browserCookies": "",
     "verbose": false
 }
