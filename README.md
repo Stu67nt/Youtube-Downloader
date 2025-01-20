@@ -1,12 +1,19 @@
 # Youtube-Downloader
 
-**Intro/About**
+# Intro/About
   
 This program can be used to download Youtube videos and audio through ytdlp. It can integrate thumbnails into the video as well as subtitles. Furthermore, it has support for downloading private videos as well as access to Sponsor block to identify and remove typically undesired parts of a video such as the intro, sponsored segments, ect.
 
-# Download & Usage
+# Download
 
-**This program has only been tested and compiled for Windows 11**
+**This program has only been tested for Windows 11. Can not garauntee support for other Operating Systems.**
+
+**Prerequisites:**
+    
+    Python 3.13+ (Could work on 3.10+ but I have not tested.)
+    Latest Version of yt-dlp python module (install through pip)
+        
+Currently this program does not have a compiled version due to unpreccidented issues to do with the compiled version. May fix if I can be asked.
 
 <del>
 To download this program:
@@ -26,7 +33,7 @@ The next steps are not required but **HIGHLY RECCOMENDED**
 </del>
 <br>
 
-**Config Arguments:**
+# Config Arguments
 The config by default would look something like this.
   
          {
