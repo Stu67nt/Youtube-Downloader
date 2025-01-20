@@ -24,6 +24,7 @@ The next steps are not required but **HIGHLY RECCOMENDED**
 9.  Whilst this program can be used without ffmpeg and ffprobe it is **HEAVILY** reccomended for you to install them and put the executeables in the same directory as this program as it unlocks many more functionalities. <br> Found here: https://www.ffmpeg.org/download.html<br>
 10. Tinker with the other settings as you wish. Arguments for each will be provided below.
 </del>
+<br>
 
 **Config Arguments:**
 The config by default would look something like this.
