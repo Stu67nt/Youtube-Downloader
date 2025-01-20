@@ -8,7 +8,7 @@ This program can be used to download Youtube videos and audio through ytdlp. It 
 
 **This program has only been tested and compiled for Windows 11**
 
----
+~~
 To download this program:
 1.  Go to the releases section of this github page and download the latest release of the program.
 2.  Once downloaded locate it in your downloads folder or your browser should have a pop up which lets you view the file in file explorer.
@@ -23,7 +23,8 @@ The next steps are not required but **HIGHLY RECCOMENDED**
 8.  Enter the name of your normal browser on the "browserCookies" part. This is **ONLY** used for getting authentication details for private downloads. If you will never download private videos you noo not need to provide this information
 9.  Whilst this program can be used without ffmpeg and ffprobe it is **HEAVILY** reccomended for you to install them and put the executeables in the same directory as this program as it unlocks many more functionalities. <br> Found here: https://www.ffmpeg.org/download.html<br>
 10. Tinker with the other settings as you wish. Arguments for each will be provided below.
----
+~~
+
 **Config Arguments:**
 The config by default would look something like this.
   
