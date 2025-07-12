@@ -15,6 +15,8 @@ This program can be used to download Youtube videos and audio through ytdlp. It 
         
 Currently this program does not have a compiled version due to unpreccidented issues to do with the compiled version. May fix if I can be asked.
 
+Click on Code and download the Zip file then unzip it.
+
 <del>
 To download this program:
 1.  Go to the releases section of this github page and download the latest release of the program.
